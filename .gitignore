@@ -1,0 +1,10 @@
+*.pptx
+*.docx
+*__pycache__/*
+exercises/.cache/v/cache/lastfailed
+solutions/.cache/v/cache/lastfailed
+*.pyc
+*.png
+*.jpg
+.*
+!/.gitignore

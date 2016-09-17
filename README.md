@@ -1,5 +1,5 @@
 # Women Who Code: Intermediate Python
-![WWC Logo](logo.jpeg =250x)
+<img src="logo.jpeg" alt="Drawing" style="width: 200px;"/>
 ## September 17, 2016
 
 ## Version

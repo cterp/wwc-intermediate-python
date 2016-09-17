@@ -1,5 +1,5 @@
 # Women Who Code: Intermediate Python
-<img src="logo.jpeg" alt="Drawing" style="width: 100px;"/>
+<img src="logo.jpeg" alt="Drawing" style="width: 30px;"/>
 ## September 17, 2016
 
 ## Version

@@ -1,4 +1,5 @@
 # Women Who Code: Intermediate Python
+![WWC Logo](logo.jpeg)
 ## September 17, 2016
 
 ## Version
